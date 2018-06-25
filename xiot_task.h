@@ -18,7 +18,7 @@ typedef unsigned char  uint_8;
 #define SWITCH_PORT_R PORTD
 #define SWICH_PIN_NUM 2
 
-//registers of output switch
+//registers of output LED
 #define LED_DIRECTION_R DDRD
 #define LED_PIN_R PIND
 #define LED_PORT_R PORTD
