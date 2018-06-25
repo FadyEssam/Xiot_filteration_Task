@@ -26,5 +26,5 @@
 
  ### C
   * I have contributed in Google summer of code in Boost Libraries in C/C++ project using opencl
-  * I have worked on many C projects in embedded and in college  
+  * I have worked on many C projects in embedded projects and in college  
 
