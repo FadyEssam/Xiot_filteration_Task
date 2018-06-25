@@ -1,4 +1,4 @@
-# XIOT Filteration Task
+# XIOT Filtration Task
 ## Steps to set up This solution on your device
   1. Install atmel studio (or eclipse with avr plugin)
   2. Create a new project and open the files "main.c" , "xiot_task.h" , "xiot_task.h" 
